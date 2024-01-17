@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>VWHead-Bold.otf</string>
+		<string>VWHead-BoltItalic.otf</string>
+		<string>VWHead-ExtraBold.otf</string>
+		<string>VWHead-Light.otf</string>
+		<string>VWHead-Regular.otf</string>
+		<string>VWHead-RegularItalic.otf</string>
+		<string>VWText-Bold.otf</string>
+		<string>VWText-BoldItalic.otf</string>
+		<string>VWText-Light.otf</string>
+		<string>VWText-Regular.otf</string>
+		<string>VWText-RegularItalic.otf</string>
+	</array>
+</dict>
+</plist>

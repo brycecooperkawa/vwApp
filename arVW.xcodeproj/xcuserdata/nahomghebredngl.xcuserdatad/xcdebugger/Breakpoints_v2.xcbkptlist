@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9278032C-31F8-483F-87F8-1531FC0ED67A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E85B5B92-777F-4038-828E-E50558E75F34"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/PreviewViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "FocusStyleChoices"
+            landmarkType = "13">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D16ED598-AD41-4F40-A9E0-564F703FDC71"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/PreviewViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "setupARView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCBADFB5-8D58-492F-ACE1-ECA088481E93"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/arVW-aocwjccgyxeezcacwjzggsiphukx/SourcePackages/checkouts/FocusEntity/Sources/FocusEntity/FocusEntity.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "FocusEntity"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA82C1B7-BFA9-4A04-85F6-DCD14D992CC6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/arVW-aocwjccgyxeezcacwjzggsiphukx/SourcePackages/checkouts/FocusEntity/Sources/FocusEntity/FocusEntity.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "setAutoUpdate(to:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5B4E913-90BD-496F-A08C-39B897BDE8F4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D95E9B7-BAA3-46D2-A2CF-D63A53FC1457"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "77A292B7-1B7C-4425-9D5D-9C66E58E842D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "77A292B7-1B7C-4425-9D5D-9C66E58E842D - 502efa3877f4305"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.CarDisplayViewController.addCarToView() -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "1652">
+               </Location>
+               <Location
+                  uuid = "77A292B7-1B7C-4425-9D5D-9C66E58E842D - 502efa3877f4305"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.CarDisplayViewController.addCarToView() -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "2128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED071FFA-77EA-4252-98C6-F9889AA99AC3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "CarDisplayViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "ED071FFA-77EA-4252-98C6-F9889AA99AC3 - ae3feacc5f609b64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.CarDisplayViewController.isRecording.getter : Swift.Bool"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "ED071FFA-77EA-4252-98C6-F9889AA99AC3 - cf94c0b4a433589d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.CarDisplayViewController.isRecording.setter : Swift.Bool"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "ED071FFA-77EA-4252-98C6-F9889AA99AC3 - 95faedc45fc046ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.CarDisplayViewController.isRecording.modify : Swift.Bool"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "ED071FFA-77EA-4252-98C6-F9889AA99AC3 - 83353f5d5b9e90b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.CarDisplayViewController.isRecording.modify : Swift.Bool with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "ED071FFA-77EA-4252-98C6-F9889AA99AC3 - 8ec9b61f834339f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.CarDisplayViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; arVW.CarDisplayViewController"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1060">
+               </Location>
+               <Location
+                  uuid = "ED071FFA-77EA-4252-98C6-F9889AA99AC3 - a242d8bab10cc1b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.CarDisplayViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;arVW.CarDisplayViewController&gt;"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1028">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3DD5A7A3-2FA5-446C-AAD5-3661E9F855FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/PreviewViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "setupARView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3DD5A7A3-2FA5-446C-AAD5-3661E9F855FB - 56fddf04da1c06de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.PreviewViewController.setupARView() -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/PreviewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "608">
+               </Location>
+               <Location
+                  uuid = "3DD5A7A3-2FA5-446C-AAD5-3661E9F855FB - 56fddf04da1c012b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.PreviewViewController.setupARView() -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/PreviewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "2000">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D58AE90-0940-4B77-AB69-BF9D6EC71A1F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/PreviewViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "setupARView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "527DC55D-DC91-4C19-AAC6-C507243B4E98"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/PreviewViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "addGesture()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "527DC55D-DC91-4C19-AAC6-C507243B4E98 - e0963e444ae6f0b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.PreviewViewController.onConfirm(Any) -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/PreviewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "1196">
+               </Location>
+               <Location
+                  uuid = "527DC55D-DC91-4C19-AAC6-C507243B4E98 - e0963e444ae6f0e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.PreviewViewController.onConfirm(Any) -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/PreviewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "900">
+               </Location>
+               <Location
+                  uuid = "527DC55D-DC91-4C19-AAC6-C507243B4E98 - e0963e444ae6f0e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.PreviewViewController.onConfirm(Any) -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/PreviewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "852">
+               </Location>
+               <Location
+                  uuid = "527DC55D-DC91-4C19-AAC6-C507243B4E98 - e0963e444ae6f096"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.PreviewViewController.onConfirm(Any) -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/PreviewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "824">
+               </Location>
+               <Location
+                  uuid = "527DC55D-DC91-4C19-AAC6-C507243B4E98 - e0963e444ae6f32a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.PreviewViewController.onConfirm(Any) -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/PreviewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "1056">
+               </Location>
+               <Location
+                  uuid = "527DC55D-DC91-4C19-AAC6-C507243B4E98 - e0963e444ae6f096"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.PreviewViewController.onConfirm(Any) -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/PreviewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "880">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90716524-AB45-4C7E-BF63-191F9306F844"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "90716524-AB45-4C7E-BF63-191F9306F844 - 3ce61d960c4a4349"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "90716524-AB45-4C7E-BF63-191F9306F844 - 3ce61d960c4a4349"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "624">
+               </Location>
+               <Location
+                  uuid = "90716524-AB45-4C7E-BF63-191F9306F844 - 3ce61d960c4a4349"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "932">
+               </Location>
+               <Location
+                  uuid = "90716524-AB45-4C7E-BF63-191F9306F844 - f8674d6d7c132ca4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIWindow) -&gt; Swift.Bool in arVW.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E551D9B2-3C20-434F-84E2-0FC826D6C0C7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/PreviewViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "tapGesture(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC3C9AF7-9270-436B-9FB2-F983F6BC12BD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/PreviewViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "PreviewViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4731A35C-2F18-45E1-A811-B963267ECBF3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4731A35C-2F18-45E1-A811-B963267ECBF3 - 9f1253ab88e417b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.CarDisplayViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "3504">
+               </Location>
+               <Location
+                  uuid = "4731A35C-2F18-45E1-A811-B963267ECBF3 - 9f1253ab88e4006"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.CarDisplayViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "3596">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D61F1AD-A771-421A-9FF0-0D1562235940"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D60875F-F6A1-4F65-B3BA-F7E8A0D89E5B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/SelectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "348"
+            endingLineNumber = "348"
+            landmarkName = "continueButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9D60875F-F6A1-4F65-B3BA-F7E8A0D89E5B - 3016c08f5bb8e895"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.SelectionViewController.continueButton(Any) -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/SelectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "349"
+                  endingLineNumber = "349"
+                  offsetFromSymbolStart = "3568">
+               </Location>
+               <Location
+                  uuid = "9D60875F-F6A1-4F65-B3BA-F7E8A0D89E5B - 3016c08f5bb8e872"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.SelectionViewController.continueButton(Any) -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/SelectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "348"
+                  endingLineNumber = "348"
+                  offsetFromSymbolStart = "3080">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFE1DF61-9EA0-481F-AA57-E9E6024DFC40"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/SelectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "331"
+            endingLineNumber = "331"
+            landmarkName = "continueButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BFE1DF61-9EA0-481F-AA57-E9E6024DFC40 - 3016c08f5bb8ea43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.SelectionViewController.continueButton(Any) -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/SelectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "331"
+                  endingLineNumber = "331"
+                  offsetFromSymbolStart = "704">
+               </Location>
+               <Location
+                  uuid = "BFE1DF61-9EA0-481F-AA57-E9E6024DFC40 - 3016c08f5bb8ea43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.SelectionViewController.continueButton(Any) -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/SelectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "331"
+                  endingLineNumber = "331"
+                  offsetFromSymbolStart = "732">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28147F4E-919C-4AAC-A832-82AE059EE81C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "155"
+            endingLineNumber = "155"
+            landmarkName = "addCarToView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "397AC333-7D60-432B-A835-6C6FB1164919"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "247"
+            endingLineNumber = "247"
+            landmarkName = "updateElements(isObjectVisible:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5F541AF-E621-467A-A6A1-DA0514EE2A4F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "194"
+            endingLineNumber = "194"
+            landmarkName = "placeCar()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6CE9E38D-39D6-4413-94B8-9511646D6D9F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "addCarToView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6CE9E38D-39D6-4413-94B8-9511646D6D9F - 502efa3877f45f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.CarDisplayViewController.addCarToView() -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "796">
+               </Location>
+               <Location
+                  uuid = "6CE9E38D-39D6-4413-94B8-9511646D6D9F - 502efa3877f45d4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.CarDisplayViewController.addCarToView() -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "796">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81327FCD-6AB2-498C-BEB9-0D7C96D3F545"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "addCarToView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2570FD1C-B538-40EF-8368-EE0E57C56136"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "156"
+            endingLineNumber = "156"
+            landmarkName = "addCarToView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BA5A186-5F81-433A-A462-28BAFD020721"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "addCarToView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3BA5A186-5F81-433A-A462-28BAFD020721 - 502efa3877f5afd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.CarDisplayViewController.addCarToView() -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "768">
+               </Location>
+               <Location
+                  uuid = "3BA5A186-5F81-433A-A462-28BAFD020721 - 502efa3877f5a1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.CarDisplayViewController.addCarToView() -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "3BA5A186-5F81-433A-A462-28BAFD020721 - 502efa3877f5afd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.CarDisplayViewController.addCarToView() -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0614AE8-9A05-4843-8AF4-9F1C5BDB1DDF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "211"
+            endingLineNumber = "211"
+            landmarkName = "addTest()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8EB57186-406F-42A1-BA75-A77F80D42A99"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "placeCar()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1067FF4-6EC9-4708-B378-14DA335A70BD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "029AB700-3DB8-42D7-8236-440881F0C388"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "placeCar()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "029AB700-3DB8-42D7-8236-440881F0C388 - 826f6129061476d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.CarDisplayViewController.placeCar() -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "1092">
+               </Location>
+               <Location
+                  uuid = "029AB700-3DB8-42D7-8236-440881F0C388 - 826f6129061476d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.CarDisplayViewController.placeCar() -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "1060">
+               </Location>
+               <Location
+                  uuid = "029AB700-3DB8-42D7-8236-440881F0C388 - 826f612906147696"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "arVW.CarDisplayViewController.placeCar() -&gt; ()"
+                  moduleName = "arVW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahomghebredngl/Documents/cse498_capstone_vw/Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "184"
+                  endingLineNumber = "184"
+                  offsetFromSymbolStart = "1296">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE1361D3-4D99-43EA-AE03-4CB4C3E42BC7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/CarDisplayViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "235"
+            endingLineNumber = "235"
+            landmarkName = "updateElements(isObjectVisible:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48108B4D-7AD4-4C12-BDA2-53AA5A4E6E49"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/SelectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "339"
+            endingLineNumber = "339"
+            landmarkName = "continueButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "185DB2AA-2961-4710-B3AC-7271C375486A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vw_AugmentedReality_iOS/SelectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "341"
+            endingLineNumber = "341"
+            landmarkName = "continueButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

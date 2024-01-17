@@ -1,0 +1,736 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1712A8812ACF1ECA0034D68C /* car_horn.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1712A8802ACF1ECA0034D68C /* car_horn.mp3 */; };
+		17FFC3912AC5E047004DF40B /* InteriorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17FFC3902AC5E047004DF40B /* InteriorViewController.swift */; };
+		842DD6EB2AD85687005DCBC7 /* CreateAccViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842DD6EA2AD85687005DCBC7 /* CreateAccViewController.swift */; };
+		8450E5A22ADDB58C00BDA035 /* FocusSquare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8450E5A12ADDB58C00BDA035 /* FocusSquare.swift */; };
+		8450E5A42ADDB59300BDA035 /* FocusSegment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8450E5A32ADDB59300BDA035 /* FocusSegment.swift */; };
+		84F2375E2AD492800090CE3F /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F2375D2AD492800090CE3F /* LoginViewController.swift */; };
+		972776222ABB504700D1059E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 972776212ABB504700D1059E /* AppDelegate.swift */; };
+		972776292ABB504700D1059E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 972776272ABB504700D1059E /* Main.storyboard */; };
+		9727762B2ABB504800D1059E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9727762A2ABB504800D1059E /* Assets.xcassets */; };
+		9727762E2ABB504800D1059E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9727762C2ABB504800D1059E /* LaunchScreen.storyboard */; };
+		972776382ABB504800D1059E /* Vw_AugmentedReality_iOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 972776372ABB504800D1059E /* Vw_AugmentedReality_iOSTests.swift */; };
+		972776422ABB504800D1059E /* Vw_AugmentedReality_iOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 972776412ABB504800D1059E /* Vw_AugmentedReality_iOSUITests.swift */; };
+		972776442ABB504800D1059E /* Vw_AugmentedReality_iOSUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 972776432ABB504800D1059E /* Vw_AugmentedReality_iOSUITestsLaunchTests.swift */; };
+		977D910C2AD071B20089F3DC /* FocusEntity in Frameworks */ = {isa = PBXBuildFile; productRef = 977D910B2AD071B20089F3DC /* FocusEntity */; };
+		97DC27DC2AD0846A002C6ED2 /* greenSquare.png in Resources */ = {isa = PBXBuildFile; fileRef = 97DC27DB2AD0846A002C6ED2 /* greenSquare.png */; };
+		9B39E9FA2AD08B8D0068BEAD /* CustomizationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B39E9F92AD08B8D0068BEAD /* CustomizationViewController.swift */; };
+		9B7F00BF2AF180D0002ECB7D /* SelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B7F00BE2AF180D0002ECB7D /* SelectionViewController.swift */; };
+		9B827AEE2AD8414C00F0E582 /* arVW_plate.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B827AED2AD8414C00F0E582 /* arVW_plate.png */; };
+		9BF48BF02AE8008D001CF529 /* CustomCar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BF48BEF2AE8008D001CF529 /* CustomCar.swift */; };
+		9BF48BF22AE8009C001CF529 /* ColorSet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BF48BF12AE8009C001CF529 /* ColorSet.swift */; };
+		9BF48BF42AE800B2001CF529 /* AccessorySet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BF48BF32AE800B2001CF529 /* AccessorySet.swift */; };
+		9BF48BF62AE846C9001CF529 /* CoachingOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BF48BF52AE846C9001CF529 /* CoachingOverlay.swift */; };
+		9BF48BFA2AE84D01001CF529 /* Fonts in Resources */ = {isa = PBXBuildFile; fileRef = 9BF48BF92AE84D01001CF529 /* Fonts */; };
+		CD4FAD0B2AD116060072AB41 /* CarDisplayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD4FAD0A2AD116060072AB41 /* CarDisplayViewController.swift */; };
+		CD9A73432AD712FF00A77EE1 /* BuzzInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD9A73422AD712FE00A77EE1 /* BuzzInfoViewController.swift */; };
+		CD9A734D2AD8CDA100A77EE1 /* SlidingTabView in Frameworks */ = {isa = PBXBuildFile; productRef = CD9A734C2AD8CDA100A77EE1 /* SlidingTabView */; };
+		CDF6FBA22AF6D11F007C0A83 /* InfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF6FBA12AF6D11F007C0A83 /* InfoViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		972776342ABB504800D1059E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 972776162ABB504600D1059E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9727761D2ABB504700D1059E;
+			remoteInfo = Vw_AugmentedReality_iOS;
+		};
+		9727763E2ABB504800D1059E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 972776162ABB504600D1059E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9727761D2ABB504700D1059E;
+			remoteInfo = Vw_AugmentedReality_iOS;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		1712A8802ACF1ECA0034D68C /* car_horn.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = car_horn.mp3; sourceTree = "<group>"; };
+		17FFC3902AC5E047004DF40B /* InteriorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InteriorViewController.swift; sourceTree = "<group>"; };
+		842DD6EA2AD85687005DCBC7 /* CreateAccViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAccViewController.swift; sourceTree = "<group>"; };
+		8450E5A12ADDB58C00BDA035 /* FocusSquare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusSquare.swift; sourceTree = "<group>"; };
+		8450E5A32ADDB59300BDA035 /* FocusSegment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusSegment.swift; sourceTree = "<group>"; };
+		84F2375D2AD492800090CE3F /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		9727761E2ABB504700D1059E /* arVW.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = arVW.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		972776212ABB504700D1059E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		972776282ABB504700D1059E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		9727762A2ABB504800D1059E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		9727762D2ABB504800D1059E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		972776332ABB504800D1059E /* arVWTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = arVWTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		972776372ABB504800D1059E /* Vw_AugmentedReality_iOSTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vw_AugmentedReality_iOSTests.swift; sourceTree = "<group>"; };
+		9727763D2ABB504800D1059E /* arVWUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = arVWUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		972776412ABB504800D1059E /* Vw_AugmentedReality_iOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vw_AugmentedReality_iOSUITests.swift; sourceTree = "<group>"; };
+		972776432ABB504800D1059E /* Vw_AugmentedReality_iOSUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vw_AugmentedReality_iOSUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		97DC27DB2AD0846A002C6ED2 /* greenSquare.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = greenSquare.png; sourceTree = SOURCE_ROOT; };
+		9B39E9F92AD08B8D0068BEAD /* CustomizationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomizationViewController.swift; sourceTree = "<group>"; };
+		9B7F00BE2AF180D0002ECB7D /* SelectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectionViewController.swift; sourceTree = "<group>"; };
+		9B827AED2AD8414C00F0E582 /* arVW_plate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = arVW_plate.png; path = Assets.xcassets/arVW_plate.png; sourceTree = "<group>"; };
+		9BF48BEF2AE8008D001CF529 /* CustomCar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCar.swift; sourceTree = "<group>"; };
+		9BF48BF12AE8009C001CF529 /* ColorSet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorSet.swift; sourceTree = "<group>"; };
+		9BF48BF32AE800B2001CF529 /* AccessorySet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessorySet.swift; sourceTree = "<group>"; };
+		9BF48BF52AE846C9001CF529 /* CoachingOverlay.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoachingOverlay.swift; sourceTree = "<group>"; };
+		9BF48BF92AE84D01001CF529 /* Fonts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Fonts; sourceTree = "<group>"; };
+		CD4FAD0A2AD116060072AB41 /* CarDisplayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarDisplayViewController.swift; sourceTree = "<group>"; };
+		CD9A73422AD712FE00A77EE1 /* BuzzInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuzzInfoViewController.swift; sourceTree = "<group>"; };
+		CDC09F0A2ABD01940005B060 /* Vw-AugmentedReality-iOS-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Vw-AugmentedReality-iOS-Info.plist"; sourceTree = SOURCE_ROOT; };
+		CDF6FBA12AF6D11F007C0A83 /* InfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoViewController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9727761B2ABB504700D1059E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD9A734D2AD8CDA100A77EE1 /* SlidingTabView in Frameworks */,
+				977D910C2AD071B20089F3DC /* FocusEntity in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		972776302ABB504800D1059E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9727763A2ABB504800D1059E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8450E59E2ADDB57400BDA035 /* Other Classes */ = {
+			isa = PBXGroup;
+			children = (
+				9BF48BF52AE846C9001CF529 /* CoachingOverlay.swift */,
+				8450E5A12ADDB58C00BDA035 /* FocusSquare.swift */,
+				8450E5A32ADDB59300BDA035 /* FocusSegment.swift */,
+			);
+			path = "Other Classes";
+			sourceTree = "<group>";
+		};
+		972776152ABB504600D1059E = {
+			isa = PBXGroup;
+			children = (
+				972776202ABB504700D1059E /* Vw_AugmentedReality_iOS */,
+				972776362ABB504800D1059E /* Vw_AugmentedReality_iOSTests */,
+				972776402ABB504800D1059E /* Vw_AugmentedReality_iOSUITests */,
+				9727761F2ABB504700D1059E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9727761F2ABB504700D1059E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9727761E2ABB504700D1059E /* arVW.app */,
+				972776332ABB504800D1059E /* arVWTests.xctest */,
+				9727763D2ABB504800D1059E /* arVWUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		972776202ABB504700D1059E /* Vw_AugmentedReality_iOS */ = {
+			isa = PBXGroup;
+			children = (
+				9BF48BF92AE84D01001CF529 /* Fonts */,
+				8450E59E2ADDB57400BDA035 /* Other Classes */,
+				97DC27DB2AD0846A002C6ED2 /* greenSquare.png */,
+				CDC09F0A2ABD01940005B060 /* Vw-AugmentedReality-iOS-Info.plist */,
+				972776212ABB504700D1059E /* AppDelegate.swift */,
+				9727762A2ABB504800D1059E /* Assets.xcassets */,
+				9B827AED2AD8414C00F0E582 /* arVW_plate.png */,
+				9727762C2ABB504800D1059E /* LaunchScreen.storyboard */,
+				972776272ABB504700D1059E /* Main.storyboard */,
+				1712A8802ACF1ECA0034D68C /* car_horn.mp3 */,
+				84F2375D2AD492800090CE3F /* LoginViewController.swift */,
+				842DD6EA2AD85687005DCBC7 /* CreateAccViewController.swift */,
+				CD9A73422AD712FE00A77EE1 /* BuzzInfoViewController.swift */,
+				17FFC3902AC5E047004DF40B /* InteriorViewController.swift */,
+				CD4FAD0A2AD116060072AB41 /* CarDisplayViewController.swift */,
+				9BF48BEF2AE8008D001CF529 /* CustomCar.swift */,
+				9BF48BF12AE8009C001CF529 /* ColorSet.swift */,
+				9BF48BF32AE800B2001CF529 /* AccessorySet.swift */,
+				9B39E9F92AD08B8D0068BEAD /* CustomizationViewController.swift */,
+				9B7F00BE2AF180D0002ECB7D /* SelectionViewController.swift */,
+				CDF6FBA12AF6D11F007C0A83 /* InfoViewController.swift */,
+			);
+			path = Vw_AugmentedReality_iOS;
+			sourceTree = "<group>";
+		};
+		972776362ABB504800D1059E /* Vw_AugmentedReality_iOSTests */ = {
+			isa = PBXGroup;
+			children = (
+				972776372ABB504800D1059E /* Vw_AugmentedReality_iOSTests.swift */,
+			);
+			path = Vw_AugmentedReality_iOSTests;
+			sourceTree = "<group>";
+		};
+		972776402ABB504800D1059E /* Vw_AugmentedReality_iOSUITests */ = {
+			isa = PBXGroup;
+			children = (
+				972776412ABB504800D1059E /* Vw_AugmentedReality_iOSUITests.swift */,
+				972776432ABB504800D1059E /* Vw_AugmentedReality_iOSUITestsLaunchTests.swift */,
+			);
+			path = Vw_AugmentedReality_iOSUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9727761D2ABB504700D1059E /* arVW */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 972776472ABB504800D1059E /* Build configuration list for PBXNativeTarget "arVW" */;
+			buildPhases = (
+				9727761A2ABB504700D1059E /* Sources */,
+				9727761B2ABB504700D1059E /* Frameworks */,
+				9727761C2ABB504700D1059E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = arVW;
+			packageProductDependencies = (
+				977D910B2AD071B20089F3DC /* FocusEntity */,
+				CD9A734C2AD8CDA100A77EE1 /* SlidingTabView */,
+			);
+			productName = Vw_AugmentedReality_iOS;
+			productReference = 9727761E2ABB504700D1059E /* arVW.app */;
+			productType = "com.apple.product-type.application";
+		};
+		972776322ABB504800D1059E /* arVWTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9727764A2ABB504800D1059E /* Build configuration list for PBXNativeTarget "arVWTests" */;
+			buildPhases = (
+				9727762F2ABB504800D1059E /* Sources */,
+				972776302ABB504800D1059E /* Frameworks */,
+				972776312ABB504800D1059E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				972776352ABB504800D1059E /* PBXTargetDependency */,
+			);
+			name = arVWTests;
+			productName = Vw_AugmentedReality_iOSTests;
+			productReference = 972776332ABB504800D1059E /* arVWTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		9727763C2ABB504800D1059E /* arVWUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9727764D2ABB504800D1059E /* Build configuration list for PBXNativeTarget "arVWUITests" */;
+			buildPhases = (
+				972776392ABB504800D1059E /* Sources */,
+				9727763A2ABB504800D1059E /* Frameworks */,
+				9727763B2ABB504800D1059E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9727763F2ABB504800D1059E /* PBXTargetDependency */,
+			);
+			name = arVWUITests;
+			productName = Vw_AugmentedReality_iOSUITests;
+			productReference = 9727763D2ABB504800D1059E /* arVWUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		972776162ABB504600D1059E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					9727761D2ABB504700D1059E = {
+						CreatedOnToolsVersion = 15.0;
+					};
+					972776322ABB504800D1059E = {
+						CreatedOnToolsVersion = 15.0;
+						TestTargetID = 9727761D2ABB504700D1059E;
+					};
+					9727763C2ABB504800D1059E = {
+						CreatedOnToolsVersion = 15.0;
+						TestTargetID = 9727761D2ABB504700D1059E;
+					};
+				};
+			};
+			buildConfigurationList = 972776192ABB504600D1059E /* Build configuration list for PBXProject "arVW" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 972776152ABB504600D1059E;
+			packageReferences = (
+				977D910A2AD071B20089F3DC /* XCRemoteSwiftPackageReference "FocusEntity" */,
+				CD9A734B2AD8CDA100A77EE1 /* XCRemoteSwiftPackageReference "SlidingTabView" */,
+			);
+			productRefGroup = 9727761F2ABB504700D1059E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9727761D2ABB504700D1059E /* arVW */,
+				972776322ABB504800D1059E /* arVWTests */,
+				9727763C2ABB504800D1059E /* arVWUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9727761C2ABB504700D1059E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9727762E2ABB504800D1059E /* LaunchScreen.storyboard in Resources */,
+				9B827AEE2AD8414C00F0E582 /* arVW_plate.png in Resources */,
+				9BF48BFA2AE84D01001CF529 /* Fonts in Resources */,
+				9727762B2ABB504800D1059E /* Assets.xcassets in Resources */,
+				1712A8812ACF1ECA0034D68C /* car_horn.mp3 in Resources */,
+				97DC27DC2AD0846A002C6ED2 /* greenSquare.png in Resources */,
+				972776292ABB504700D1059E /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		972776312ABB504800D1059E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9727763B2ABB504800D1059E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9727761A2ABB504700D1059E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8450E5A42ADDB59300BDA035 /* FocusSegment.swift in Sources */,
+				84F2375E2AD492800090CE3F /* LoginViewController.swift in Sources */,
+				9B39E9FA2AD08B8D0068BEAD /* CustomizationViewController.swift in Sources */,
+				8450E5A22ADDB58C00BDA035 /* FocusSquare.swift in Sources */,
+				842DD6EB2AD85687005DCBC7 /* CreateAccViewController.swift in Sources */,
+				9BF48BF22AE8009C001CF529 /* ColorSet.swift in Sources */,
+				9BF48BF42AE800B2001CF529 /* AccessorySet.swift in Sources */,
+				9BF48BF62AE846C9001CF529 /* CoachingOverlay.swift in Sources */,
+				CD4FAD0B2AD116060072AB41 /* CarDisplayViewController.swift in Sources */,
+				9BF48BF02AE8008D001CF529 /* CustomCar.swift in Sources */,
+				17FFC3912AC5E047004DF40B /* InteriorViewController.swift in Sources */,
+				9B7F00BF2AF180D0002ECB7D /* SelectionViewController.swift in Sources */,
+				972776222ABB504700D1059E /* AppDelegate.swift in Sources */,
+				CD9A73432AD712FF00A77EE1 /* BuzzInfoViewController.swift in Sources */,
+				CDF6FBA22AF6D11F007C0A83 /* InfoViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9727762F2ABB504800D1059E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				972776382ABB504800D1059E /* Vw_AugmentedReality_iOSTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		972776392ABB504800D1059E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				972776422ABB504800D1059E /* Vw_AugmentedReality_iOSUITests.swift in Sources */,
+				972776442ABB504800D1059E /* Vw_AugmentedReality_iOSUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		972776352ABB504800D1059E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9727761D2ABB504700D1059E /* arVW */;
+			targetProxy = 972776342ABB504800D1059E /* PBXContainerItemProxy */;
+		};
+		9727763F2ABB504800D1059E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9727761D2ABB504700D1059E /* arVW */;
+			targetProxy = 9727763E2ABB504800D1059E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		972776272ABB504700D1059E /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				972776282ABB504700D1059E /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		9727762C2ABB504800D1059E /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9727762D2ABB504800D1059E /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		972776452ABB504800D1059E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		972776462ABB504800D1059E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		972776482ABB504800D1059E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = YB29447S9Y;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Vw-AugmentedReality-iOS-Info.plist";
+				INFOPLIST_KEY_NSCameraUsageDescription = "";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "add photos";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIRequiredDeviceCapabilities = arkit;
+				INFOPLIST_KEY_UIStatusBarHidden = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "bryce-interior";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		972776492ABB504800D1059E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = YB29447S9Y;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Vw-AugmentedReality-iOS-Info.plist";
+				INFOPLIST_KEY_NSCameraUsageDescription = "";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "add photos";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIRequiredDeviceCapabilities = arkit;
+				INFOPLIST_KEY_UIStatusBarHidden = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "bryce-interior";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		9727764B2ABB504800D1059E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ghebredn.Vw-AugmentedReality-iOSTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/arVW.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/arVW";
+			};
+			name = Debug;
+		};
+		9727764C2ABB504800D1059E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ghebredn.Vw-AugmentedReality-iOSTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/arVW.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/arVW";
+			};
+			name = Release;
+		};
+		9727764E2ABB504800D1059E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ghebredn.Vw-AugmentedReality-iOSUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Vw_AugmentedReality_iOS;
+			};
+			name = Debug;
+		};
+		9727764F2ABB504800D1059E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ghebredn.Vw-AugmentedReality-iOSUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Vw_AugmentedReality_iOS;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		972776192ABB504600D1059E /* Build configuration list for PBXProject "arVW" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				972776452ABB504800D1059E /* Debug */,
+				972776462ABB504800D1059E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		972776472ABB504800D1059E /* Build configuration list for PBXNativeTarget "arVW" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				972776482ABB504800D1059E /* Debug */,
+				972776492ABB504800D1059E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9727764A2ABB504800D1059E /* Build configuration list for PBXNativeTarget "arVWTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9727764B2ABB504800D1059E /* Debug */,
+				9727764C2ABB504800D1059E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9727764D2ABB504800D1059E /* Build configuration list for PBXNativeTarget "arVWUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9727764E2ABB504800D1059E /* Debug */,
+				9727764F2ABB504800D1059E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		977D910A2AD071B20089F3DC /* XCRemoteSwiftPackageReference "FocusEntity" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/maxxfrazer/FocusEntity";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.5.0;
+			};
+		};
+		CD9A734B2AD8CDA100A77EE1 /* XCRemoteSwiftPackageReference "SlidingTabView" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/ayakut16/SlidingTabView.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		977D910B2AD071B20089F3DC /* FocusEntity */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 977D910A2AD071B20089F3DC /* XCRemoteSwiftPackageReference "FocusEntity" */;
+			productName = FocusEntity;
+		};
+		CD9A734C2AD8CDA100A77EE1 /* SlidingTabView */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = CD9A734B2AD8CDA100A77EE1 /* XCRemoteSwiftPackageReference "SlidingTabView" */;
+			productName = SlidingTabView;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 972776162ABB504600D1059E /* Project object */;
+}
